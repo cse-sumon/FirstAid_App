@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstAid</string>
+    <string name="title_activity_sub_category">SubCategory</string>
+</resources>
